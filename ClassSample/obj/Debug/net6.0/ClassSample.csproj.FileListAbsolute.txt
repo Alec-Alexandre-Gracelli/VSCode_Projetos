@@ -1,0 +1,15 @@
+C:\Users\Alec\CSharpBasico\ClassSample\bin\Debug\net6.0\ClassSample.exe
+C:\Users\Alec\CSharpBasico\ClassSample\bin\Debug\net6.0\ClassSample.deps.json
+C:\Users\Alec\CSharpBasico\ClassSample\bin\Debug\net6.0\ClassSample.runtimeconfig.json
+C:\Users\Alec\CSharpBasico\ClassSample\bin\Debug\net6.0\ClassSample.dll
+C:\Users\Alec\CSharpBasico\ClassSample\bin\Debug\net6.0\ref\ClassSample.dll
+C:\Users\Alec\CSharpBasico\ClassSample\bin\Debug\net6.0\ClassSample.pdb
+C:\Users\Alec\CSharpBasico\ClassSample\obj\Debug\net6.0\ClassSample.csproj.AssemblyReference.cache
+C:\Users\Alec\CSharpBasico\ClassSample\obj\Debug\net6.0\ClassSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alec\CSharpBasico\ClassSample\obj\Debug\net6.0\ClassSample.AssemblyInfoInputs.cache
+C:\Users\Alec\CSharpBasico\ClassSample\obj\Debug\net6.0\ClassSample.AssemblyInfo.cs
+C:\Users\Alec\CSharpBasico\ClassSample\obj\Debug\net6.0\ClassSample.csproj.CoreCompileInputs.cache
+C:\Users\Alec\CSharpBasico\ClassSample\obj\Debug\net6.0\ClassSample.dll
+C:\Users\Alec\CSharpBasico\ClassSample\obj\Debug\net6.0\ref\ClassSample.dll
+C:\Users\Alec\CSharpBasico\ClassSample\obj\Debug\net6.0\ClassSample.pdb
+C:\Users\Alec\CSharpBasico\ClassSample\obj\Debug\net6.0\ClassSample.genruntimeconfig.cache

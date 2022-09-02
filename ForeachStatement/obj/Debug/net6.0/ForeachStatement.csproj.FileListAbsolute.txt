@@ -1,0 +1,15 @@
+C:\Users\Alec\CSharpBasico\ForeachStatement\obj\Debug\net6.0\ForeachStatement.csproj.AssemblyReference.cache
+C:\Users\Alec\CSharpBasico\ForeachStatement\obj\Debug\net6.0\ForeachStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alec\CSharpBasico\ForeachStatement\obj\Debug\net6.0\ForeachStatement.AssemblyInfoInputs.cache
+C:\Users\Alec\CSharpBasico\ForeachStatement\obj\Debug\net6.0\ForeachStatement.AssemblyInfo.cs
+C:\Users\Alec\CSharpBasico\ForeachStatement\obj\Debug\net6.0\ForeachStatement.csproj.CoreCompileInputs.cache
+C:\Users\Alec\CSharpBasico\ForeachStatement\bin\Debug\net6.0\ForeachStatement.exe
+C:\Users\Alec\CSharpBasico\ForeachStatement\bin\Debug\net6.0\ForeachStatement.deps.json
+C:\Users\Alec\CSharpBasico\ForeachStatement\bin\Debug\net6.0\ForeachStatement.runtimeconfig.json
+C:\Users\Alec\CSharpBasico\ForeachStatement\bin\Debug\net6.0\ForeachStatement.dll
+C:\Users\Alec\CSharpBasico\ForeachStatement\bin\Debug\net6.0\ref\ForeachStatement.dll
+C:\Users\Alec\CSharpBasico\ForeachStatement\bin\Debug\net6.0\ForeachStatement.pdb
+C:\Users\Alec\CSharpBasico\ForeachStatement\obj\Debug\net6.0\ForeachStatement.dll
+C:\Users\Alec\CSharpBasico\ForeachStatement\obj\Debug\net6.0\ref\ForeachStatement.dll
+C:\Users\Alec\CSharpBasico\ForeachStatement\obj\Debug\net6.0\ForeachStatement.pdb
+C:\Users\Alec\CSharpBasico\ForeachStatement\obj\Debug\net6.0\ForeachStatement.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Alec\Projetos\Valorporhoras\obj\Debug\net6.0\Valorporhoras.csproj.AssemblyReference.cache
+C:\Users\Alec\Projetos\Valorporhoras\obj\Debug\net6.0\Valorporhoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alec\Projetos\Valorporhoras\obj\Debug\net6.0\Valorporhoras.AssemblyInfoInputs.cache
+C:\Users\Alec\Projetos\Valorporhoras\obj\Debug\net6.0\Valorporhoras.AssemblyInfo.cs
+C:\Users\Alec\Projetos\Valorporhoras\obj\Debug\net6.0\Valorporhoras.csproj.CoreCompileInputs.cache
+C:\Users\Alec\Projetos\Valorporhoras\bin\Debug\net6.0\Valorporhoras.exe
+C:\Users\Alec\Projetos\Valorporhoras\bin\Debug\net6.0\Valorporhoras.deps.json
+C:\Users\Alec\Projetos\Valorporhoras\bin\Debug\net6.0\Valorporhoras.runtimeconfig.json
+C:\Users\Alec\Projetos\Valorporhoras\bin\Debug\net6.0\Valorporhoras.dll
+C:\Users\Alec\Projetos\Valorporhoras\bin\Debug\net6.0\ref\Valorporhoras.dll
+C:\Users\Alec\Projetos\Valorporhoras\bin\Debug\net6.0\Valorporhoras.pdb
+C:\Users\Alec\Projetos\Valorporhoras\obj\Debug\net6.0\Valorporhoras.dll
+C:\Users\Alec\Projetos\Valorporhoras\obj\Debug\net6.0\ref\Valorporhoras.dll
+C:\Users\Alec\Projetos\Valorporhoras\obj\Debug\net6.0\Valorporhoras.pdb
+C:\Users\Alec\Projetos\Valorporhoras\obj\Debug\net6.0\Valorporhoras.genruntimeconfig.cache
